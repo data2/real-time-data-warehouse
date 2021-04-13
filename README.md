@@ -15,6 +15,10 @@
 
 ![image](https://user-images.githubusercontent.com/13504729/114484488-e5110200-9c3c-11eb-8c4e-88f677fd2411.png)
 
+## 产生的背景
+
+![image](https://user-images.githubusercontent.com/13504729/114487097-96199b80-9c41-11eb-8d7b-78b42482b611.png)
+
 
 # 实时数仓的应用场景
 
@@ -27,3 +31,17 @@
 实时数据接口服务：由于各业务线之间存在很多业务壁垒，导致数仓开发很难熟悉公司内全部业务线，需要与各业务线相关部门在数据加工和数据获取方面进行协作，数仓通过提供实时数据接口服务的方式，向业务方提供数据支持。
 
 ![image](https://user-images.githubusercontent.com/13504729/114483863-b9414c80-9c3b-11eb-84ee-28436482d967.png)
+
+# 架构图
+
+![image](https://user-images.githubusercontent.com/13504729/114486505-9ebda200-9c40-11eb-976b-d98d834e74fe.png)
+
+## 离线数仓 vs 实时数仓
+
+![image](https://user-images.githubusercontent.com/13504729/114487291-ec86da00-9c41-11eb-9c65-b174cec43a60.png)
+
+## 实时数仓三种架构
+
+![image](https://user-images.githubusercontent.com/13504729/114487319-fad4f600-9c41-11eb-8391-d5d310ae64e7.png)
+
+
