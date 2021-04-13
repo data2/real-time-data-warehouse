@@ -3,6 +3,8 @@
 
 # 什么是数据仓库？
 
+数据仓库：**一个面向主题的、集成的、相对稳定的、反映历史变化的数据集合，用于支持管理决策**
+
 数据仓库是将多个数据源的数据经过ETL（**Extract（抽取）、Transform（转换）、Load（加载）**）处理之后，按照一定的主题集成起来**提供决策支持**和联机分析应用的结构化数据环境
 
 早期数据仓库构建主要指的是把企业的业务数据库如 ERP、CRM、SCM 等数据按照决策分析的要求建模并汇总到数据仓库引擎中，其应用以报表为主，目的是支持管理层和业务人员决策（中长期策略型决策）
@@ -15,9 +17,6 @@
 
 ![image](https://user-images.githubusercontent.com/13504729/114484488-e5110200-9c3c-11eb-8c4e-88f677fd2411.png)
 
-## 数据仓库 精确定义
-
-![image](https://user-images.githubusercontent.com/13504729/114487097-96199b80-9c41-11eb-8d7b-78b42482b611.png)
 
 
 # 实时数仓的应用场景
@@ -38,16 +37,18 @@
 
 ![image](https://user-images.githubusercontent.com/13504729/114486505-9ebda200-9c40-11eb-976b-d98d834e74fe.png)
 
+![image](https://user-images.githubusercontent.com/13504729/114489898-7df84b00-9c46-11eb-96a2-81b90c940a08.png)
 
 
-## 离线数仓 vs 实时数仓
+# 离线数仓 vs 实时数仓
 
 ![image](https://user-images.githubusercontent.com/13504729/114487291-ec86da00-9c41-11eb-9c65-b174cec43a60.png)
 
 
 
+# 实时数仓三种架构
 
-## 实时数仓三种架构
+
 
 ![image](https://user-images.githubusercontent.com/13504729/114487319-fad4f600-9c41-11eb-8391-d5d310ae64e7.png)
 
