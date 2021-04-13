@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/13504729/114484488-e5110200-9c3c-11eb-8c4e-88f677fd2411.png)
 
-## 产生的背景
+## 数据仓库 精确定义
 
 ![image](https://user-images.githubusercontent.com/13504729/114487097-96199b80-9c41-11eb-8d7b-78b42482b611.png)
 
@@ -32,13 +32,20 @@
 
 ![image](https://user-images.githubusercontent.com/13504729/114483863-b9414c80-9c3b-11eb-84ee-28436482d967.png)
 
+
+
 # 架构图
 
 ![image](https://user-images.githubusercontent.com/13504729/114486505-9ebda200-9c40-11eb-976b-d98d834e74fe.png)
 
+
+
 ## 离线数仓 vs 实时数仓
 
 ![image](https://user-images.githubusercontent.com/13504729/114487291-ec86da00-9c41-11eb-9c65-b174cec43a60.png)
+
+
+
 
 ## 实时数仓三种架构
 
